@@ -1,0 +1,22 @@
+{
+    "name": "Modus Operandi",
+    "foreground": "#000000", // fg-main
+    "background": "#ffffff", // bg-main
+    "cursorColor": "#000000", // fg-main
+    "black": "#595959", // fg-dim
+    "red": "#a60000", // red
+    "green": "#006800", // green
+    "yellow": "#6f5500", // yellow
+    "blue": "#0031a9", // blue
+    "purple": "#721045", // magenta
+    "cyan": "#005e8b", // cyan
+    "white": "#9f9f9f", // border
+    "brightBlack": "#e0e0e0", // bg-inactive
+    "brightRed": "#d00000", // red-intense
+    "brightGreen": "#008900", // green-intense
+    "brightYellow": "#808000", // yellow-intense
+    "brightBlue": "#0000ff", // blue-intense
+    "brightPurple": "#dd22dd", // magenta-intense
+    "brightCyan": "#008899", // cyan-intense
+    "brightWhite": "#c4c4c4" // bg-active
+}
